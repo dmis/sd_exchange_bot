@@ -1,0 +1,3 @@
+pytelegrambotapi
+Django
+polygon-api-client
